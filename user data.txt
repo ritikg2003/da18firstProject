@@ -1,1 +1,4 @@
 ritik
+
+git config --global user.email ritikgathibandhe66@gmail.com
+  git config --global user.name ritikg2003
